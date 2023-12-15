@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "334474963302",
+    "firebase_url": "https://socialgram-2bd7e-default-rtdb.firebaseio.com",
+    "project_id": "socialgram-2bd7e",
+    "storage_bucket": "socialgram-2bd7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334474963302:android:66adc9a446e9da229b80a7",
+        "android_client_info": {
+          "package_name": "com.example.socialsgram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8IrWhepZ2QbfhBzQoMI2FT2g_r2mGTJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
